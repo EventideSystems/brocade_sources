@@ -70,16 +70,11 @@ NB This list needs curation. Some sources may no longer be available.
 
 * https://github.com/papyrussolution/UhttBarcodeReference
 * http://gepir.gs1.org/
-* https://www.datakick.org/download
+* ~~https://www.datakick.org/download~~
 * http://product-open-data.com/download
 * https://web.archive.org/web/20171227230516/http://www.product-open-data.com:80/download
-* https://pod.opendatasoft.com/explore/dataset/pod_gtin/table/
-* https://pod.opendatasoft.com/explore/?sort=modified
-* https://product.okfn.org/
+* ~~https://product.okfn.org/~~
 * https://world.openfoodfacts.org/data
-* https://pod.opendatasoft.com/explore/?sort=modified
-* http://product-open-data.com/owner/list
-
 
 #### Restricted / Commerial Sources
 
