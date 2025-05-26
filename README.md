@@ -75,6 +75,9 @@ NB This list needs curation. Some sources may no longer be available.
 * https://web.archive.org/web/20171227230516/http://www.product-open-data.com:80/download
 * ~~https://product.okfn.org/~~
 * https://world.openfoodfacts.org/data
+* https://www.kaggle.com/datasets?search=gtin
+  * https://www.kaggle.com/datasets/goulvenfuret/gtin-ean-products-database
+  * https://www.kaggle.com/datasets/rtatman/universal-product-code-database 
 
 #### Restricted / Commerial Sources
 
