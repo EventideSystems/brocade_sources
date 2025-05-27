@@ -1,6 +1,8 @@
 # OS cruft
-
 .DS_Store
 
+/tmp
+config/database.yml
 
+# Miscellaneous
 product_open_data/pod_web_2014.01.01_01.sql
